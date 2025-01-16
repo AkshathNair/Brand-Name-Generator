@@ -1,0 +1,11 @@
+# Create a greeting for your program
+print("Hi Welcome to program")
+# Ask the user for the city that they grew up in and store it in a variable.
+City = input("What city you were born?\n")
+print("Ok! It's " + City)
+# Ask the user for the name of a pet and store it in a variable.
+Pet = input("What pet you had?\n")
+print("Ok! It's " + Pet)
+# Combine the name of their city and pet and show them their band name.
+print("Ok we got all the information, here is you brand name - ")
+print(City + " " + Pet)
